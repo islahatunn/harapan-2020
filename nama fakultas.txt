@@ -1,4 +1,5 @@
 list fakultas
 -fakultas filkom
 -fakultas teknik
--fakultas fkip
+-fakultas nuklir
+-fakultas perpajakan
